@@ -125,6 +125,8 @@
   text-align: center;
   line-height: 100px;
   color:#B0BDC1 ;
+  box-shadow: 0  5px 5px rgb(94, 100, 117);
+  
 }
 .titre_cercle{
   font-weight: bold;
